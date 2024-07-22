@@ -3,6 +3,8 @@
 </div>
 
 
+https://github.com/user-attachments/assets/702be164-16ae-479a-bfa9-e5ec4c78463a
+
 ## Sobre mi
 
 - ⭐ Just graduated in Data Science and Digital Operations - MSc eBusiness Management.
