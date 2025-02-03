@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/702be164-16ae-479a-bfa9-e5ec4c78463a
 - ⭐ Graduated in Data Science and Digital Operations - MSc eBusiness Management.
 - 📚 University of Warwick                                
 - 📊 3+ years of experience enhancing B2B customer experiences through data analysis.
-- 🎯 Looking for the next professional step in Data Science/Analytics.
+- 🎯 Looking for the next professional step in customer, product and analytics.
 
 ## Skills
 ![Communication](https://img.shields.io/badge/Communication-F7DCFF)
